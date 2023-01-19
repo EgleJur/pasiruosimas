@@ -1,0 +1,14 @@
+.Update-Animal label,
+input,
+textarea,
+select {
+    display: block;
+}
+
+.Update-Animal label {
+    margin-top: 0.8em;
+}
+
+.Update-Animal .error {
+    color: red;
+}
